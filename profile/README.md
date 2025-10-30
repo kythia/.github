@@ -37,7 +37,7 @@ Kythia isn't just another bot. Designed with a **powerful modular addon system**
 
   <p align="center">
      <a href="https://github.com/kythia/kythia"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kythia&repo=kythia&theme=react&bg_color=1F222E&title_color=61DAFB&hide_border=true&icon_color=61DAFB&show_icons=true" alt="github-readme-streak-stats"></a>
-     <a href="https://github.com/kythia/kythia-core"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kythia&repo=kythia-core&theme=react&bg_color=1F222E&title_color=61DAFB&hide_border=true&icon_color=61DAFB&show_icons=true" alt="github-readme-streak-stats"></a>
+     <a href="https://github.com/kenndeclouv/kythia-core"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kythia&repo=kythia-core&theme=react&bg_color=1F222E&title_color=61DAFB&hide_border=true&icon_color=61DAFB&show_icons=true" alt="github-readme-streak-stats"></a>
   </p>
 
 ---
